@@ -6,7 +6,7 @@
 
 Import it with:
 
-```go
+```
 go get github.com/makeworld-the-better-one/rr
 ```
 
